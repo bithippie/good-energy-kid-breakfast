@@ -5,11 +5,11 @@
 Inspired by Dr. Casey Means' book, [Good Energy][1], Shawn Stevenson's book, [Eat Smarter][2], and a desire to find metabolism-promoting breakfast options for my children, 
 I decided to compile a list of breakfasts for kids that are low in refined grains and sugars, promoting long-term health for future generations. 
 
-[![Good Energy Book Cover][1]{:width="50%"}][2]
+[![Good Energy Book Cover|width=50%][1]][2]
 
 [Link to Book][2]
 
-[![Eat Smarter Book Cover][3]{:width="50%"}][4]
+[![Eat Smarter Book Cover|width=50%][3]][4]
 
 [Link to Book][4]
 
