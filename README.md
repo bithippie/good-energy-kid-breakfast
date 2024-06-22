@@ -19,7 +19,7 @@ _Disclosure: As an Amazon Associate I earn from qualifying purchases._
 
 ### Add to the List
 
-If you have a recipe that you'd like to add, either open a PR or leave a comment on my [LinkedIn Post](https://www.linkedin.com/posts/bithippie_nutrition-breakfastideas-healthyeating-activity-7204488966199283712-CRHh) and I'll add it to this document. 
+If you have a recipe that you'd like to add, either open a PR or leave a comment on my [LinkedIn Post](https://www.linkedin.com/posts/bithippie_nutrition-breakfastideas-healthyeating-activity-7204488966199283712-CRHh){:target="_blank"} and I'll add it to this document. 
 
 > [!IMPORTANT]
 >
