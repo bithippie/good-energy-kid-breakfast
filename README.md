@@ -43,7 +43,7 @@ If you have a recipe that you'd like to add, either open a PR or leave a comment
 ## Eggs
 > [!TIP]
 >
-> Source Local Eggs! \
+> When you can, source locally first! \
 > A post on your town's Facebook page is a good way to learn which neighbors raise hens.
 
 - Omelette: Local, free-range, or cage-free eggs. Use a quality cheese such as Swiss, Colby Jack, or Cheddar. Add a pinch of coarse sea salt and black pepper before cooking. 
