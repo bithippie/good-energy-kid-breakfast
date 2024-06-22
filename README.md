@@ -3,9 +3,11 @@
 ## Background
 
 Inspired by Dr. Casey Means' book, *Good Energy*, and the quest to find metabolism-promoting breakfast options for my children, 
-I decided to compile a list of breakfasts for kids that are low in refined grains and sugars.
+I decided to compile a list of breakfasts for kids that are low in refined grains and sugars. _Disclosure: As an Amazon Associate I earn from qualifying purchases._
 
 <img width=300 alt="Good Energy Book Cover" src="./good_energy_book_cover.jpg"/>
+
+[Link to Book](https://amzn.to/3RGsHCN)
 
 ## Add to the List
 
