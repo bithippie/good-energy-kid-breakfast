@@ -21,13 +21,14 @@ _Disclosure: As an Amazon Associate I earn from qualifying purchases._
 
 If you have a recipe that you'd like to add, either open a PR or leave a comment on my [LinkedIn Post](https://www.linkedin.com/posts/bithippie_nutrition-breakfastideas-healthyeating-activity-7204488966199283712-CRHh) and I'll add it to this document. 
 
-[!IMPORTANT] 
-This is a community built list. 
-You may not agree every ingredient in every item on the list. 
-What ingredients people choose to cook with is a highly personal decision. 
-Peoples' bodies respond differently to different foods.
-Remember, the goal is not to be perfect, but to make it easier to replace sugar-laden, inflammation-triggering convienece foods with healthier alternatives.
-If you don't agree with something, submit an alternative recipe!
+> [!IMPORTANT]
+>
+> This is a community built list. \
+> You may not agree every ingredient in every item on the list. \
+> What ingredients people choose to cook with is a highly personal decision. \
+> Peoples' bodies respond differently to different foods. \
+> Remember, the goal is not to be perfect, but to make it easier to replace sugar-laden, inflammation-triggering convienece foods with healthier alternatives. \
+> If you don't agree with something, submit an alternative recipe!
 
 ## Smoothies
 
