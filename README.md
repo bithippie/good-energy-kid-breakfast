@@ -40,7 +40,10 @@ If you have a recipe that you'd like to add, either open a PR or leave a comment
 
 - Greek Yogurt Mix: Greek yogurt, flax seed, fruit (e.g. blueberries, strawberries, raspberries), local raw honey, organic ground turmeric, or ground cinnamon.
 
-## Eggs <span style="font-size: 14">(Shop Local 🥚)*</span>
-*&nbsp;A post on your town's Facebook page is a good way to learn which neighbors raise hens.
+## Eggs
+> [!TIP]
+>
+> Source Local Eggs! \
+> A post on your town's Facebook page is a good way to learn which neighbors raise hens.
 
 - Omelette: Local, free-range, or cage-free eggs. Use a quality cheese such as Swiss, Colby Jack, or Cheddar. Add a pinch of coarse sea salt and black pepper before cooking. 
