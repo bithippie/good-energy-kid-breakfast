@@ -23,9 +23,28 @@ If you have a recipe that you'd like to add, either open a PR or leave a comment
 > Remember, the goal is not to be perfect, but to make it easier to replace sugar-laden, inflammation-triggering convienece foods with healthier alternatives. \
 > If you don't agree with something, submit an alternative recipe!
 
+## Eggs
+> [!TIP]
+>
+> When you can, source locally first! \
+> A post on your town's Facebook page is a good way to learn which neighbors raise hens.
+
+- Omelette: Local, free-range, or cage-free eggs. Use a quality cheese such as Swiss, Colby Jack, or Cheddar. Add a pinch of coarse sea salt and black pepper before cooking. 
+
 ## Smoothies
 
 - Smoothies made with pea protein powder: plant milk, chia seeds, and fruit. Keep half a dozen kinds of frozen fruit chunks in your freezer and let your kids pick what they want. Add nut butter too, if your kids are not allergic to it.
+
+## Sweeteners
+This table is pulled directly from the [Eat Smarter Family Cookbook][2] on page 40.
+
+| Scary Choice             | Sufficient Choice           | Smarter Choice |
+|--------------------------|-----------------------------|----------------|
+| Artifical sweetners      | Organic cane sugar          | Raw honey      |
+| Conventional Sugar       | Organic coconut sugar       | Stevia         |
+| Corn syrup               | Dried fruit                 | Monk fruit     |
+| High fructose corn syrup | Organic grade B maple syrup |                |
+
 
 ## Yogurt
 
