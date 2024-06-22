@@ -2,15 +2,8 @@
 
 ## Background
 
-Inspired by Dr. Casey Means' book, *Good Energy*, and a quest to find metabolism-promoting breakfast options for my children, 
+Inspired by Dr. Casey Means' book - [Good Energy][1], Shawn Stevenson's book - [Eat Smarter][2], and a desire to find metabolism-promoting breakfast options for my children, 
 I decided to compile a list of breakfasts for kids that are low in refined grains and sugars, promoting long-term health for future generations. 
-
-
-<img width=300 alt="Good Energy Book Cover" src="./good_energy_book_cover.jpg"/>
-
-[Link to Book](https://amzn.to/3RGsHCN)
-
-_Disclosure: As an Amazon Associate I earn from qualifying purchases._
 
 ## Criteria:
 - Kids' favorites
@@ -47,3 +40,35 @@ If you have a recipe that you'd like to add, either open a PR or leave a comment
 > A post on your town's Facebook page is a good way to learn which neighbors raise hens.
 
 - Omelette: Local, free-range, or cage-free eggs. Use a quality cheese such as Swiss, Colby Jack, or Cheddar. Add a pinch of coarse sea salt and black pepper before cooking. 
+
+## Resources
+[
+  <img 
+    alt="Good Energy Book Cover" 
+    src="https://m.media-amazon.com/images/I/71KTwO53SnL._SL1500_.jpg"
+    float="left"
+    width="200"
+  />
+][1]
+
+[Link to Book][1]
+
+[
+  <img 
+    alt="Eat Smarter Book Cover" 
+    src="https://m.media-amazon.com/images/I/719eqXYIiSL._SL1500_.jpg"
+    float="left"
+    width="200" />
+][2]
+
+[Link to Book][2]
+
+
+_Disclosure: As an Amazon Associate I earn from qualifying purchases._
+
+
+<!-- Good Energy --> 
+[1]: https://amzn.to/3VCBHtH
+
+<!-- Eat Smarter Family Cookbook--> 
+[2]: https://amzn.to/4csOYvM
