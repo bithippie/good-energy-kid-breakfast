@@ -35,6 +35,28 @@ If you have a recipe that you'd like to add, either open a PR or leave a comment
 
 - Smoothies made with pea protein powder: plant milk, chia seeds, and fruit. Keep half a dozen kinds of frozen fruit chunks in your freezer and let your kids pick what they want. Add nut butter too, if your kids are not allergic to it.
 
+## Breakfast Bars
+Easy to make breakfast bars that can be eaten cold or warmed up slightly for easy breakfast or quick snack on the go. 
+
+### Ingredients
+- 2 cups old fashioned oats
+- 1.5 cups whole wheat flour
+- 1/2 cup toasted wheat germ
+- 2 tsp cinnamon
+- 1/2 tsp salt
+- 1 cup honey
+- 2/3 cup unsweetened apple sauce (we use two of the individual serving cups)
+- 1/2 cup canola oil
+- 2 eggs, beaten
+- 2 egg whites, beaten
+- 2/3 cup dried fruit (optional. 1/3 cup blueberries + 1/3 cup tart cherries from Trader Joes is our go-to)
+
+### Cooking
+- Preheat oven to 350f (325 convect)
+- Combine dry ingredients in medium bowl
+- Combine wet ingredients in large bowl, slowly mix in dry ingredients, fold in dried fruit if using
+- Bake for 28 minutes in 13x9 baking dish that has been coated with non-stick spray
+
 ## Sweeteners
 This table is pulled directly from the [Eat Smarter Family Cookbook][2] on page 40.
 
