@@ -48,6 +48,8 @@ If you have a recipe that you'd like to add, either open a PR or leave a comment
 </details>
 
 ## Cooking Oils
+This table is pulled directly from the [Eat Smarter Family Cookbook][2] on page 52.
+
 | Scary Choice           | Sufficient Choice      | Smarter Choice                 |
 |------------------------|------------------------|--------------------------------|
 | Canola oil             | Avocado oil            | Organic avocado oil            |
