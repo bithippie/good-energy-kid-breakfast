@@ -36,7 +36,8 @@ If you have a recipe that you'd like to add, either open a PR or leave a comment
 - Smoothies made with pea protein powder: plant milk, chia seeds, and fruit. Keep half a dozen kinds of frozen fruit chunks in your freezer and let your kids pick what they want. Add nut butter too, if your kids are not allergic to it.
 
 ## Breakfast Bars
-Easy to make breakfast bars that can be eaten cold or warmed up.
+<details>
+<summary>Kim's Bars - Easy to make breakfast bars that can be eaten cold or warmed up.</summary>
 
 ### Ingredients
 - 2 cups old fashioned oats
@@ -56,6 +57,7 @@ Easy to make breakfast bars that can be eaten cold or warmed up.
 - Combine dry ingredients in medium bowl
 - Combine wet ingredients in large bowl, slowly mix in dry ingredients, fold in dried fruit if using
 - Bake for 28 minutes in 13x9 baking dish that has been coated with non-stick spray
+</details>
 
 ## Cooking Oils
 | Scary Choice           | Sufficient Choice      | Smarter Choice                 |
