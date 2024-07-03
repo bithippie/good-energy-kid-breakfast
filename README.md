@@ -46,7 +46,7 @@ Easy to make breakfast bars that can be eaten cold or warmed up.
 - 1/2 tsp salt
 - 1 cup honey
 - 2/3 cup unsweetened apple sauce (we use two of the individual serving cups)
-- 1/2 cup canola oil
+- 1/2 cup oil [(See Oils)](#cooking-oils)
 - 2 eggs, beaten
 - 2 egg whites, beaten
 - 2/3 cup dried fruit (optional. 1/3 cup blueberries + 1/3 cup tart cherries from Trader Joes is our go-to)
@@ -56,6 +56,16 @@ Easy to make breakfast bars that can be eaten cold or warmed up.
 - Combine dry ingredients in medium bowl
 - Combine wet ingredients in large bowl, slowly mix in dry ingredients, fold in dried fruit if using
 - Bake for 28 minutes in 13x9 baking dish that has been coated with non-stick spray
+
+## Cooking Oils
+| Scary Choice           | Sufficient Choice      | Smarter Choice                 |
+|------------------------|------------------------|--------------------------------|
+| Canola oil             | Avocado oil            | Organic avocado oil            |
+| Corn oil               | Butter                 | Grass-fed butter               |
+| Soybean oil            | Coconut oil            | Organic coconut oil            |
+| Other "vegetable" oils | Extra virgin olive oil | Organic extra virgin olive oil |
+|                        | Ghee                   | Grass-fed ghee                 |
+
 
 ## Sweeteners
 This table is pulled directly from the [Eat Smarter Family Cookbook][2] on page 40.
